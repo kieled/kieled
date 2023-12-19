@@ -1,4 +1,4 @@
-Hello everyone. I'm a full-stack engineer. My main languages are `Typescript` and `Python`. I'm currently learning `Rust`. I already have more than 3 years of coding experience, including more than a year of commercial coding. My main focus is web development
+Hello everyone. I'm a full-stack engineer. My main languages are `Typescript` and `Python`. I'm currently loving `Rust`. I already have more than 4 years of coding experience, including more than a year of commercial coding. My main focus is web and blockchain.
 
 <h2/>
 
